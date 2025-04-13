@@ -54,7 +54,7 @@ Simulate phishing attacks to assess employee awareness, test defenses against so
 | Links Clicked        | 12 (60%)       |
 | Credentials Submitted| 5 (25%)        |
 
-📁 View Full Results: [results.csv](./results.csv)
+
 
 ---
 
